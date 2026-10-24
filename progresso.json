@@ -1,0 +1,15 @@
+{
+  "versao": 1,
+  "atualizado": "2026-10-24T13:19:17.142Z",
+  "lessons": {
+    "two-sum": 1
+  },
+  "cleared": {
+    "two-sum": 0
+  },
+  "streak": {
+    "last": "2026-10-24",
+    "count": 1,
+    "best": 1
+  }
+}
